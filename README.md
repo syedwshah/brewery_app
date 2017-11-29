@@ -44,7 +44,13 @@ Abrian - Frontend 💻
 We have incoperated a third part API.
 API Used: http://www.brewerydb.com/
 
-Our dependencies include: pg-promise, react-router-dom, morgan, express, body-parser, dotenv. 
+Our dependencies include:
+* pg-promise
+* react-router-dom
+* morgan
+* express
+* body-parser
+* dotenv 
 
 
 # 🍻 CHEERS ! 🍻
