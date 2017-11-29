@@ -41,8 +41,8 @@ Abrian - Frontend 💻
 
 ### Additional REQs:
 
-We have incoperated a third part API.
-API Used: http://www.brewerydb.com/
+We have incoperated a third part API:
+* http://www.brewerydb.com/
 
 Our dependencies include:
 * pg-promise
