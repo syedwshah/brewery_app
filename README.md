@@ -45,12 +45,16 @@ We have incoperated a third part API:
 * http://www.brewerydb.com/
 
 Our dependencies include:
-* pg-promise
-* react-router-dom
-* morgan
-* express
-* body-parser
-* dotenv 
+```sh 
+"dependencies": {
+    "body-parser": "^1.18.2",
+    "cookie-parser": "^1.4.3",
+    "express": "^4.16.2",
+    "morgan": "^1.9.0",
+    "pg-promise": "^7.3.2",
+    "react-router-dom": "^4.2.2"
+  }
+```
 
 
 # 🍻 CHEERS ! 🍻
