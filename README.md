@@ -37,6 +37,9 @@ Abrian - Frontend 💻
 
 ### ADVANCED Wireframe: 
 ![alternateText](https://i.imgur.com/697zShR.png)
+
+### Actual
+![alternateText](Screen Shot 2018-01-02 at 5.12.09 PM.png)
 🍻 🍻 🍻 🍻 🍻 🍻 🍻 🍻 🍻 🍻 🍻 🍻 🍻 🍻 🍻 🍻 🍻 🍻 🍻 🍻 🍻 🍻 🍻 🍻
 
 ### Additional REQs:
