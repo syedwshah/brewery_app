@@ -39,7 +39,11 @@ Abrian - Frontend 💻
 ![alternateText](https://i.imgur.com/697zShR.png)
 
 ### Actual
-![alternateText](https://github.com/syedshah94/brewery_app/blob/master/Screen%20Shot%202018-01-02%20at%205.12.09%20PM.png)
+![alternateText](https://github.com/syedshah94/brewery_app/blob/master/Screen%20Shot%202018-01-02%20at%205.26.41%20PM.png)
+
+### Selecting a style of beer and being able to add to favorites list
+![alternateText](https://github.com/syedshah94/brewery_app/blob/master/Screen%20Shot%202018-01-02%20at%205.25.20%20PM.png)
+
 🍻 🍻 🍻 🍻 🍻 🍻 🍻 🍻 🍻 🍻 🍻 🍻 🍻 🍻 🍻 🍻 🍻 🍻 🍻 🍻 🍻 🍻 🍻 🍻
 
 ### Additional REQs:
