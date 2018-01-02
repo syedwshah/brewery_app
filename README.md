@@ -39,7 +39,7 @@ Abrian - Frontend 💻
 ![alternateText](https://i.imgur.com/697zShR.png)
 
 ### Actual
-![alternateText](Screen Shot 2018-01-02 at 5.12.09 PM.png)
+![alternateText](https://github.com/syedshah94/brewery_app/blob/master/Screen%20Shot%202018-01-02%20at%205.12.09%20PM.png)
 🍻 🍻 🍻 🍻 🍻 🍻 🍻 🍻 🍻 🍻 🍻 🍻 🍻 🍻 🍻 🍻 🍻 🍻 🍻 🍻 🍻 🍻 🍻 🍻
 
 ### Additional REQs:
